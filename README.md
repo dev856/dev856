@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<--
+<!--
 - 🔭 I’m currently working on yoga pose estimation
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
