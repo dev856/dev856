@@ -10,9 +10,9 @@
 - 👩‍💻 Currently learning Machine Learning 
 - 💻 CP platforms
  
-![Badge](https://cp-logo.vercel.app/codechef/god_001?logo=true)
-![Badge](https://cp-logo.vercel.app/atcoder/anonymous_001?logo=true)
-![Badge](https://cp-logo.vercel.app/codeforces/cyberprince?logo=true)
+[![Alt Text](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/god_001)
+[![Alt Text](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@prince998)
+[![Alt Text](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/anonymous_0001?hr_r=1)
 
 - 📖 Skills 
 
@@ -23,6 +23,9 @@
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 - 🧐 I'm exploring 
 
@@ -31,6 +34,7 @@
 ![image](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![image](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 ![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 - 📫 How to reach me: devhkotak@gmail.com
 - ⚡ Fun fact: Love tea over coffee. Love dark theme over light 
@@ -52,5 +56,11 @@
 
 - 🏆 Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dev856&theme=onedark)](https://github.com/dev856/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dev856&rank=S,B,C&no-bg=true&theme=onedark)](https://github.com/dev856/github-profile-trophy)
 
+
+- 🔗 Connect with me
+
+[![Alt Text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-kotak/")
+[![Alt Text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev856)
+[![Alt Text](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devkotak_2611/)
