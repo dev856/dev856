@@ -1,7 +1,12 @@
-### Hello, I am Dev Kotak 👋
+
+<p align = "center">
+  Hello, I am Dev! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</p>
+<p align = "center">
+ <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
+</p>  
 
 - 🌱 I’m interested in Machine Learning , Data Science , Computer Vision
-- ![Alt text](https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif)                                  
 - 👩‍💻 Currently learning Machine Learning 
 - 💻 CP platforms
  
@@ -32,7 +37,7 @@
 - 📈 Github Statistics 
 
 
-![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev856&hide=contribs,prs&show_icons=true&theme=radical)
+![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev856&hide=contribs,prs&show_icons=true&theme=dark&count_private=true)
 - 🔁 Most  used languages 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev856&layout=compact&theme=dark)](https://github.com/dev856/github-readme-stats)
@@ -41,5 +46,11 @@
 
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=dev856&show_icons=true&theme=dark)
 
+- 📊 Contribution graph
+
 [![Dev's github activity graph](https://activity-graph.herokuapp.com/graph?username=dev856&theme=react-dark)](https://github.com/dev856/github-readme-activity-graph)
+
+- 🏆 Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dev856&theme=onedark)](https://github.com/dev856/github-profile-trophy)
 
