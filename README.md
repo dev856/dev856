@@ -4,17 +4,18 @@
 </p>
 <p align = "center">
  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
-</p>  
+</p>
 
+- 👨‍🎓 I'm undergraduate student (2019-2023)
 - 🌱 I’m interested in Machine Learning , Data Science , Computer Vision
-- 👩‍💻 Currently learning Machine Learning 
+- 👩‍💻 Currently learning Machine Learning and working on pose estimation
 - 💻 CP platforms
  
 [![Alt Text](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/god_001)
 [![Alt Text](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@prince998)
 [![Alt Text](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/anonymous_0001?hr_r=1)
 
-- 📖 Skills 
+- 📖 Languages and Tools 
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -26,6 +27,9 @@
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 - 🧐 I'm exploring 
 
@@ -37,7 +41,7 @@
 ![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 - 📫 How to reach me: devhkotak@gmail.com
-- ⚡ Fun fact: Love tea over coffee. Love dark theme over light 
+- ⚡ Fun fact: Love tea over coffee. Love dark theme 💓
 - 📈 Github Statistics 
 
 
