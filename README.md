@@ -1,14 +1,13 @@
 ### Hello, I am Dev Kotak 👋
 
 - 🌱 I’m interested in Machine Learning , Data Science , Computer Vision
-- cp platform links
+- 👩‍💻 Currently learning Machine Learning 
+- 💻 CP platforms
  
 ![Badge](https://cp-logo.vercel.app/codechef/god_001?logo=true)
 ![Badge](https://cp-logo.vercel.app/atcoder/anonymous_001?logo=true)
+![Badge](https://cp-logo.vercel.app/codeforces/cyberprince?logo=true)
 
-
-
-- 📫 How to reach me: devhkotak@gmail.com
 - 📖 Skills 
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
@@ -27,14 +26,19 @@
 ![image](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 ![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-
+- 📫 How to reach me: devhkotak@gmail.com
+- ⚡ Fun fact: Love tea over coffee. Love dark theme over light 
 - 📈 Github Statistics 
 
 
 ![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev856&hide=contribs,prs&show_icons=true&theme=radical)
 - 🔁 Most  used languages 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev856&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev856&layout=compact&theme=dark)](https://github.com/dev856/github-readme-stats)
 
+- ✨contributions
 
-![image](https://github-readme-streak-stats.herokuapp.com/?user=dev856)
+![image](https://github-readme-streak-stats.herokuapp.com/?user=dev856&show_icons=true&theme=dark)
+
+[![Dev's github activity graph](https://activity-graph.herokuapp.com/graph?username=dev856&theme=react-dark)](https://github.com/dev856/github-readme-activity-graph)
+
