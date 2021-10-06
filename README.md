@@ -1,6 +1,7 @@
 ### Hello, I am Dev Kotak 👋
 
 - 🌱 I’m interested in Machine Learning , Data Science , Computer Vision
+- ![Alt text](https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif)                                  
 - 👩‍💻 Currently learning Machine Learning 
 - 💻 CP platforms
  
