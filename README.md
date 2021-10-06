@@ -1,10 +1,15 @@
 ### Hello, I am Dev Kotak 👋
-[![Badge](https://cp-logo.vercel.app/codechef/god_001)]
-![image](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)
 
 - 🌱 I’m interested in Machine Learning , Data Science , Computer Vision
+- cp platform links
+ 
+![Badge](https://cp-logo.vercel.app/codechef/god_001?logo=true)
+![Badge](https://cp-logo.vercel.app/atcoder/anonymous_001?logo=true)
+
+
+
 - 📫 How to reach me: devhkotak@gmail.com
-- 📖Skills 
+- 📖 Skills 
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -32,4 +37,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev856&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+![image](https://github-readme-streak-stats.herokuapp.com/?user=dev856)
