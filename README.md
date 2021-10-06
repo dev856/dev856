@@ -1,5 +1,6 @@
 ### Hello, I am Dev Kotak 👋
-
+[![Badge](https://cp-logo.vercel.app/codechef/god_001)]
+![image](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)
 - 🌱 I’m interested in Machine Learning , Data Science , Computer Vision
 - 📫 How to reach me: devhkotak@gmail.com
 
