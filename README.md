@@ -7,7 +7,7 @@
 </p>
 
 - 👨‍🎓 I'm undergraduate student (2019-2023)
-- 🌱 I’m interested in Machine Learning , Data Science , Computer Vision
+- 🌱 I’m interested in Machine Learning , Data Science , Computer Vision , Deep Learning
 - 👩‍💻 Currently learning Machine Learning and working on pose estimation
 - 💻 CP platforms
  
@@ -41,7 +41,7 @@
 ![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 - 📫 How to reach me: devhkotak@gmail.com
-- ⚡ Fun fact: Love tea over coffee. Love dark theme 💓
+- ⚡ Fun fact: Tea over coffee. Dark theme 💓
 - 📈 Github Statistics 
 
 
