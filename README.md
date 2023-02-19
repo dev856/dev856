@@ -14,6 +14,7 @@
 [![Alt Text](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/god_001)
 [![Alt Text](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@prince998)
 [![Alt Text](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/anonymous_0001?hr_r=1)
+[![Alt Text](https://img.shields.io/badge/Stopstalk-Stopstalk-blue)](https://www.stopstalk.com/user/profile/anounymous_001)
 
 - 📖 Languages and Tools 
 
@@ -30,6 +31,7 @@
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 - 🧐 I'm exploring 
 
@@ -39,6 +41,7 @@
 ![image](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 ![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 - 📫 How to reach me: devhkotak@gmail.com
 - ⚡ Fun fact: Tea over coffee. Dark theme 💓
