@@ -12,7 +12,7 @@
 - 💻 CP platforms
  
 [![Alt Text](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/god_001)
-[![Alt Text](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@prince998)
+[![Alt Text](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@devkotak6869)
 [![Alt Text](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/anonymous_0001?hr_r=1)
 [![Alt Text](https://img.shields.io/badge/Stopstalk-Stopstalk-blue)](https://www.stopstalk.com/user/profile/anounymous_001)
 
