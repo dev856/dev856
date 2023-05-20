@@ -68,10 +68,6 @@
 
 - 🔗 Connect with me
 
-[![Alt Text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-kotak/")
-[![Alt Text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev856)
-[![Alt Text](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devkotak_2611/)
-
 
 <p align="left">
 <a href="https://linkedin.com/in/dev kotak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev kotak" height="30" width="40" /></a>
