@@ -9,13 +9,14 @@
 - 👨‍🎓 I'm undergraduate student (2019-2023)
 - 🌱 I’m interested in Machine Learning , Data Science , Computer Vision , Deep Learning
 - 👩‍💻 Currently learning Machine Learning and working on pose estimation
+
 - 💻 CP platforms
  
 [![Alt Text](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/god_001)
 [![Alt Text](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@devkotak6869)
 [![Alt Text](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/anonymous_0001?hr_r=1)
 [![Alt Text](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/devkotak)
-[![Alt Text](https://img.shields.io/badge/Stopstalk--20BEFF?style=for-the-badge&logo=Stopstalk&logoColor=blue ](https://www.stopstalk.com/user/profile/anounymous_001)
+
 
 - 📖 Languages and Tools 
 
@@ -33,6 +34,7 @@
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 - 🧐 I'm exploring 
 
@@ -43,6 +45,10 @@
 ![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+- 📝 Blog
+- ![image](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+- ![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 - 📫 How to reach me: devhkotak@gmail.com
 - ⚡ Fun fact: Tea over coffee. Dark theme 💓
