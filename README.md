@@ -71,7 +71,7 @@
 
 - 📊 Contribution graph
 
-[![Dev's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dev856&theme=github-compact)](https://github.com/dev856/github-readme-activity-graph)
+[![Dev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev856&theme=github-compact)](https://github.com/dev856/github-readme-activity-graph)
 
 - 🏆 Trophy
 
