@@ -45,6 +45,7 @@
 ![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+
 -🥅 Work/Jobs
 
 ![image](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
@@ -60,7 +61,7 @@
 - 📈 Github Statistics 
 
 
-![Dev Kotak's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev856&show_icons=true&theme=transparent)
+![Dev Kotak's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev856&show_icons=true&theme=gruvbox)
 
 - 🔁 Most  used languages 
 
