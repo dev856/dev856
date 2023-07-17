@@ -60,7 +60,8 @@
 - 📈 Github Statistics 
 
 
-![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev856&hide=contribs,prs&show_icons=true&theme=dark&count_private=true)
+![Dev Kotak's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev856&show_icons=true&theme=transparent)
+
 - 🔁 Most  used languages 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev856&layout=compact&theme=dark)](https://github.com/dev856/github-readme-stats)
@@ -75,7 +76,7 @@
 
 - 🏆 Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dev856&rank=S,B,C&no-bg=true&theme=onedark)](https://github.com/dev856/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 🔗 Connect with me
