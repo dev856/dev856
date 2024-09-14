@@ -7,7 +7,7 @@
  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
 </p>
 
-- 👨‍🎓 I'm Upcoming Graduate Student @Carleton University (2019-2023)
+- 👨‍🎓 I'm a Master of Engineering: Electrical and Computer Engineering with collaborative specialization student @Carleton University (2023-2025)
 - 🌱 I’m interested in Machine Learning , Data Science , Computer Vision , Deep Learning
 - 👩‍💻 Currently learning Machine Learning and working on pose estimation
 
