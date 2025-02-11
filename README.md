@@ -8,7 +8,7 @@
 </p>
 
 - 👨‍🎓 I'm a Master of Engineering: Electrical and Computer Engineering with collaborative specialization student @Carleton University (2023-2025)
-- 🌱 I’m interested in Machine Learning , Data Science , Computer Vision , Deep Learning
+- 🌱 I’m interested in Machine Learning, Data Science, Computer Vision, Deep Learning
 - 👩‍💻 Currently learning Machine Learning and working on pose estimation
 
 - 💻 CP platforms
