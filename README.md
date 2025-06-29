@@ -3,6 +3,9 @@
 <p align = "center">
   Hello, I am Dev! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=500&lines=ML+Engineer" alt="Typing SVG" />
+</div>
 <p align = "center">
  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
 </p>
