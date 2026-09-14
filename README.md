@@ -111,15 +111,24 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Data Insights
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dev856&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2E96F7&text_color=ffffff&icon_color=7B2FF7" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev856&layout=compact&hide_border=true&bg_color=0d1117&title_color=2E96F7&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev856&theme=tokyonight" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=dev856&theme=dark&hide_border=true&background=0d1117&ring=2E96F7&fire=7B2FF7&currStreakNum=2E96F7&sideNums=ffffff&currStreakLabel=7B2FF7&sideLabels=ffffff&dates=ffffff" alt="Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev856&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev856&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev856&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev856&theme=tokyonight" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dev856&theme=dark&hide_border=true&background=0d1117&ring=2E96F7&fire=7B2FF7&currStreakNum=2E96F7&sideNums=ffffff&currStreakLabel=7B2FF7&sideLabels=ffffff&dates=ffffff" alt="Streak Stats" />
 </p>
 
 ---
