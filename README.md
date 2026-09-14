@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dev856&label=Profile%20Views&color=2E96F7&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/dev856?label=Followers&style=flat-square&color=7B2FF7" alt="GitHub Followers" />
+  <!-- <img src="https://img.shields.io/github/followers/dev856?label=Followers&style=flat-square&color=7B2FF7" alt="GitHub Followers" /> -->
 </p>
 
 ---
@@ -113,7 +113,7 @@
 
 ## 📊 GitHub Analytics & Data Insights
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev856&theme=tokyonight" alt="Profile Details" />
 </p>
 
@@ -125,7 +125,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev856&theme=tokyonight" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev856&theme=tokyonight" alt="Productive Time" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dev856&theme=dark&hide_border=true&background=0d1117&ring=2E96F7&fire=7B2FF7&currStreakNum=2E96F7&sideNums=ffffff&currStreakLabel=7B2FF7&sideLabels=ffffff&dates=ffffff" alt="Streak Stats" />
