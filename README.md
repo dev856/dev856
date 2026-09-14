@@ -114,36 +114,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dev856&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev856&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dev856&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2E96F7&text_color=ffffff&icon_color=7B2FF7" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev856&layout=compact&hide_border=true&bg_color=0d1117&title_color=2E96F7&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=dev856&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dev856&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev856&bg_color=0d1117&color=2E96F7&line=7B2FF7&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dev856/dev856/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 💬 Quote of the Day
-
-<p align="center">
-  <img src="https://github-readme-quotes-returns-den.vercel.app/quote?theme=tokyonight&animation=grow_out_in" alt="Quotes" />
+  <img height="165" src="https://streak-stats.demolab.com?user=dev856&theme=dark&hide_border=true&background=0d1117&ring=2E96F7&fire=7B2FF7&currStreakNum=2E96F7&sideNums=ffffff&currStreakLabel=7B2FF7&sideLabels=ffffff&dates=ffffff" alt="Streak Stats" />
 </p>
 
 ---
